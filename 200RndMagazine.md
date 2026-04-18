@@ -22,19 +22,19 @@ We need to add another folder inside `Configs/Weapons` This folder will be calle
 
 Now head back to the `Create` button and make a `MagazineConfig` in the same way you did for the Ballistic Table. call it `Ammo_545x39_Modded`
 
-![alt text](image.png)
+![alt text](/Magazine_Images/image.png)
 
 Now head back to the Create button and make a MagazineConfig in the same way you did for the Ballistic Table. call it `Ammo_545x39_Modded.`
 
-![alt text](image-1.png)
+![alt text](/Magazine_Images/image-1.png)
 
 Double-click on our new Ammo Config and add our modded round to the 0 slot. Remember to use the `..`  button to browse and `save` too.
 
-![alt text](image-2.png)
+![alt text](/Magazine_Images/image-2.png)
 
 Head back the the Magazine window and add the config to the `Ammo Config` slot below the `Max Ammo` heading.
 
-![alt text](image-3.png)
+![alt text](/Magazine_Images/image-3.png)
 
 Make sure to add 200 rounds to the Ammo Mapping. Currently there are 30 in the image and there could be zero (0) in yours. Click the `+` at the right of the textbox with the (30). That will add +1 to rounds to your mag. if you all slots at zero (0) they will fire your explosive round. If you change it to 1. It will either not fire a round, or it will default back to a normal round.
 
@@ -54,11 +54,11 @@ Open your `Rifle_AK74_MODDED` and edit the prefab.
 
 in `MuzzleComponent` You will find `Magazine Template` I recommend searching for it in the filter.
 
-![alt text](image-4.png)
+![alt text](/Magazine_Images/image-4.png)
 
 Change your Template by clicking on the the 2-dot button and selecting your modded magazine.
 
-![alt text](image-5.png)
+![alt text](/Magazine_Images/image-5.png)
 
 And that is how to mod a Mag.
 
