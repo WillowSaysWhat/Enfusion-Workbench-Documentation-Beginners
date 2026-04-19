@@ -14,8 +14,8 @@ Week One
 * [New Project](/newProject.md)
 * [Your First Mod: 2-Round Burst](/2RndBurst.md)
 * [Your First Mod: Explosive Rounds](/explosiveRound.md)
-* [Your First Mod: 200 RND Magazine]()
-* [Your First Mod: Re-Skin Rifle]()
+* [Your First Mod: 200 RND Magazine](/200RndMagazine.md)
+* [Your First Mod: Re-Skin Rifle](/retextureRifle.md)
 * [Your First Mod: Change Sounds]()
 * [Your First Mod: Particle Effect]()
 
