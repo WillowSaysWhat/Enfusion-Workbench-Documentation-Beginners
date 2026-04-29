@@ -6,7 +6,7 @@ Please view this on Github.com or use the VSCode extension ```Markdown Preview E
 
 ## Table of Contents
 
-Week One
+### Week One
 
 * [Install Enfusion Workbench](/installEnfusionWorkbench.md)
 * [Docs Location](/docsLocation.md)
@@ -16,8 +16,13 @@ Week One
 * [Your First Mod: Explosive Rounds](/explosiveRound.md)
 * [Your First Mod: 200 RND Magazine](/200RndMagazine.md)
 * [Your First Mod: Re-Skin Rifle](/retextureRifle.md)
-* [Your First Mod: Change Sounds]()
-* [Your First Mod: Particle Effect]()
+* [Your First Mod: Change Sounds](/SoundModding.md)
+* [Your First Mod: Particle Effect](/particleEffect.md)
 
-## Week Two
-* 
+###  Week Two
+* [Modding Car Damage](/moddingCarDamage.md)
+* [Modding Fuel Properties](/fuelProperties.md)
+* [Changing Driving Properties](/drivingBehaviour.md)
+* [Adding a Turrent to a Vehicle](/addingTurrent.md)
+* [Moding Vehicle Exhaust Animation](/changingExhaustEffect.md)
+* [Making Capture & Hold Gamemode]()
