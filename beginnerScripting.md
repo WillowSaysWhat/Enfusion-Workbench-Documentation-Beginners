@@ -267,7 +267,7 @@ You can use both in a `Print` or `PrintFormat` statement
 string sEntity = "Infantry";
 float  fDistance = 150.5;
 
-PrintFormat("%1 is at %2", sEntity, fDistance;
+PrintFormat("%1 is at %2", sEntity, fDistance);
 ```
 
 # Conventions
@@ -380,11 +380,11 @@ An array is a container that holds multiple slots of data.
 array<string> letters = {"Alpha", "Bravo", "Charlie"};
 ```
 
-Then we can print them to the console by using the this syntax.
+Then we can print them to the console by using this syntax.
 
 ```csharp
 Print(letters[0]);
-Print(letters[1];
+Print(letters[1]);
 ```
 
 You will notice that our array has a index value of zero `letters[0].`

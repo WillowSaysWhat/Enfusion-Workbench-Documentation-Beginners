@@ -26,3 +26,6 @@ Please view this on Github.com or use the VSCode extension ```Markdown Preview E
 * [Adding a Turrent to a Vehicle](/addingTurrent.md)
 * [Moding Vehicle Exhaust Animation](/changingExhaustEffect.md)
 * [Making Capture & Hold Gamemode]()
+
+### Week Three
+* [Beginner Scripting: All lessons](/beginnerScripting.md)
